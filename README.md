@@ -1,5 +1,5 @@
 # Hello, I'm NURSEZIM 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/nursezim-musaevna-b3a8812b8">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
