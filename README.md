@@ -30,7 +30,7 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 | Log Analysis & Threat Detection | <a href="https://github.com/YOURNAME/log-analysis-project">Log Analysis Project</a> |
 | SQL for Security Investigations | <a href="https://github.com/YOURNAME/sql-security-queries">SQL Investigation Lab</a> |
 | Python for Data & Script Analysis | <a href="https://github.com/YOURNAME/python-security-analysis">Python Analysis Project</a> |
-| Data Visualization & Reporting ( Excel) | [Dashboard](https://github.com/nursezimtoikulova-sketch/Excel-Data-analysis-Cybersecurity_Workforce_Analysis..git) |Cybersecurity Workforce Analysis Report
+| Data Visualization & Reporting ( Excel) | [Cybersecurity Workforce Analysis Report](https://github.com/nursezimtoikulova-sketch/Excel-Data-analysis-Cybersecurity_Workforce_Analysis..git) |Cybersecurity Workforce Analysis Report
 | Incident Documentation & Reporting | <a href="https://github.com/YOURNAME/security-report-writing">Security Report Samples</a> |
 
 ---
