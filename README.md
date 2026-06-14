@@ -78,8 +78,9 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
   <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate">
 </a> <img src="https://img.shields.io/badge/-Scientific_Computing_with_Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL_Certification-CC2927?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Data_Analysis_Fundamentals-0A66C2?&style=for-the-badge&logoColor=white" />
-</div>
+<a href="https://www.udacity.com/certificate/e/7e1d4c86-bf8f-11f0-8988-730da9b0e953" target="_blank">
+  <img src="https://img.shields.io/badge/Udacity-00B3E3?style=for-the-badge&logo=Udacity&logoColor=white" alt="Udacity Certificate">
+</a></div>
 
 ---
 
