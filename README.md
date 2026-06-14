@@ -8,7 +8,7 @@ Certified by **ISC2** and **Google**, I specialize in **log analysis, network tr
 
 ---
 
-## 🎯 Objective
+##  ⛶ Objective
 
 My journey in computer science and data analytics has led me to develop a strong passion for cybersecurity.  
 
@@ -35,9 +35,9 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 
 ---
 
-## 🧰 Tools
+## 🔗 Tools
 
-### 🔎 Network
+### 🖧 Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-005571?&style=for-the-badge&logo=linux&logoColor=white" />
@@ -51,7 +51,7 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
-### 📊 Data & Programming
+### 🗐 Data & Programming
 <div>
     <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
@@ -60,7 +60,7 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
     <img src="https://img.shields.io/badge/-Power_BI-F2C811?&style=for-the-badge&logo=PowerBI&logoColor=black" />
 </div>
 
-### 🔐 Security Concepts
+### 🔒︎ Security Concepts
 <div>
     <img src="https://img.shields.io/badge/-Incident_Response-8B0000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Log_Analysis-4B0082?&style=for-the-badge&logoColor=white" />
@@ -70,7 +70,7 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 
 ---
 
-## 📜 Certifications
+## 🧾 Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-ISC2_CC-003366?&style=for-the-badge&logoColor=white" />
@@ -83,7 +83,7 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 
 ---
 
-## 🚀 Projects
+## 📰 Projects
 
 ### 🔍 Network Forensics & Traffic Analysis
 - Analyzed PCAP files using Wireshark  
@@ -91,7 +91,7 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 - Investigated protocol behavior and anomalies  
 - Documented findings in structured security reports  
 
-### 📊 E-Commerce Data Analysis Dashboard
+### 🗁 E-Commerce Data Analysis Dashboard
 - Cleaned and transformed raw datasets  
 - Built interactive dashboards in Excel & Power BI  
 - Applied anomaly detection techniques to identify unusual trends  
@@ -104,8 +104,6 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 
 ---
 
-⭐ I am continuously building hands-on labs and documenting my learning journey in cybersecurity.
-## Hi there 👋
 
 <!--
 **nursezimtoikulova-sketch/nursezimtoikulova-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
