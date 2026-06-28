@@ -21,17 +21,14 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 - Python script analysis  
 
 ---
-
-## 🛠 Skills
+## 🛠️ Technical Skills & Projects
 
 | Skill | Associated Project |
 |-------|-------------------|
-| Network Traffic Analysis (Wireshark, TCPDump) | <a href="https://github.com/YOURNAME/network-forensics-lab">Network Forensics Lab</a> |
-| Log Analysis & Threat Detection | <a href="https://github.com/YOURNAME/log-analysis-project">Log Analysis Project</a> |
-| SQL for Security Investigations | <a href="https://github.com/YOURNAME/sql-security-queries">SQL Investigation Lab</a> |
-| Python for Data & Script Analysis | <a href="https://github.com/YOURNAME/python-security-analysis">Python Analysis Project</a> |
-| Data Visualization & Reporting ( Excel) | [Cybersecurity Workforce Analysis Report](https://github.com/nursezimtoikulova-sketch/Excel-Data-analysis-Cybersecurity_Workforce_Analysis..git) |Cybersecurity Workforce Analysis Report
-| Incident Documentation & Reporting | <a href="https://github.com/YOURNAME/security-report-writing">Security Report Samples</a> |
+| **Network Traffic Analysis** (Wireshark, TCPDump) | <a href="https://github.com/nursezimtoikulova-sketch/Wireshark-Projects">Wireshark Analysis Project</a> |
+| **Packet Capture & Protocol Analysis** (Python + Scapy) | <a href="https://github.com/nursezimtoikulova-sketch/TcpDump-project">TCP Traffic Analyzer</a> |
+| **Network Reconnaissance & Port Scanning** | <a href="https://github.com/nursezimtoikulova-sketch/Port-scanner">Port Scanner CLI</a> |
+| **Data Visualization & Reporting** (Excel) | <a href="https://github.com/nursezimtoikulova-sketch/Excel-Data-analysis-Cybersecurity_Workforce_Analysis">Cybersecurity Workforce Analysis</a> |> |
 
 ---
 
