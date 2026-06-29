@@ -70,12 +70,14 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 ## 🧾 Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-ISC2_CC-003366?&style=for-the-badge&logoColor=white" />
 <a href="https://coursera.org/share/3d41895d5b82138c722cdac187c4f568" target="_blank">
   <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate">
 </a> <img src="https://img.shields.io/badge/-Scientific_Computing_with_Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL_Certification-CC2927?&style=for-the-badge&logoColor=white" />
 <a href="https://www.udacity.com/certificate/e/7e1d4c86-bf8f-11f0-8988-730da9b0e953" target="_blank">
+    <a href="https://elearning.centri.org/home/certificate/499310616" target="_blank">
+  <img src="https://img.shields.io/badge/Blue_Team_Junior_Analyst_Pathway_Bundle-0A0A2A?style=for-the-badge&logoColor=white" alt="Blue Team Junior Analyst Pathway Bundle">
+</a>
   <img src="https://img.shields.io/badge/Udacity-00B3E3?style=for-the-badge&logo=Udacity&logoColor=white" alt="Udacity Certificate">
 </a></div>
 
