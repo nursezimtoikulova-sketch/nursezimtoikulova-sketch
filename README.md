@@ -80,3 +80,40 @@ I am actively seeking an opportunity to join a **Security Operations Center (SOC
 </a></div>
 
 ---
+TCP Traffic Analyzer (tcpdump)
+GitHub: https://github.com/nursezimtoikulova-sketch/TcpDump-project
+
+- Captured and analyzed TCP network traffic using tcpdump in a Linux environment
+- Examined TCP three-way handshake, flags, retransmissions, and packet flow behavior
+- Investigated source/destination IP addresses and port-level communication
+- Practiced packet-level traffic inspection and documented findings in structured reports
+- Strengthened understanding of TCP/IP protocol behavior and network monitoring fundamentals
+
+Wireshark Network Forensics Lab
+GitHub: https://github.com/nursezimtoikulova-sketch/Wireshark-Projects
+
+- Analyzed packet capture (PCAP) files using Wireshark
+- Investigated DNS, HTTP, and TCP traffic to identify communication patterns
+- Filtered traffic using protocol-based and IP-based filters
+- Examined request-response behavior and abnormal network activity
+- Practiced basic network forensics and traffic investigation techniques
+
+Port Scanner CLI (Python)
+GitHub: https://github.com/nursezimtoikulova-sketch/Port-scanner
+
+- Developed a command-line port scanner using Python and socket programming
+- Scanned target hosts to identify open and closed ports
+- Applied understanding of TCP connections and network services
+- Strengthened knowledge of basic reconnaissance and network enumeration concepts
+- Documented tool usage and security learning outcomes on GitHub
+
+
+Cybersecurity Workforce Data Analysis (Excel)
+GitHub:
+https://github.com/nursezimtoikulova-sketch/Excel-Data-analysis-Cybersecurity_Workforce_Analysis
+
+- Analyzed cybersecurity workforce datasets using Excel
+- Built dashboards and KPI summaries to identify hiring trends and skill demand
+- Used pivot tables, filtering, and data visualization techniques
+- Identified patterns and market gaps in cybersecurity roles
+- Strengthened analytical and reporting skills relevant to security operations monitoring
